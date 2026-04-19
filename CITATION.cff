@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you reference this architecture, please cite it as below."
+title: "From E™: A Geometric Architecture for Multidimensional Conceptual Cognition"
+version: 2.0
+date-released: 2026-04-19
+authors:
+  - family-names: "García"
+    given-names: "Esmeralda"
+    orcid: "https://orcid.org/0009-0006-4076-0653"
+    affiliation: "From E™ Labs (Volyen Project SL)"
+    city: "Barcelona"
+    country: "ES"
+repository-code: "https://github.com/volyen-project/from-e-architecture"
+url: "https://github.com/volyen-project/from-e-architecture"
+license: Apache-2.0
+keywords:
+  - artificial-intelligence
+  - cognitive-governance
+  - llm-architecture
+  - structural-agi
+  - alignment
+  - runtime-governance
+  - cross-model-validation
+preferred-citation:
+  type: article
+  title: "From E™: A Geometric Architecture for Multidimensional Conceptual Cognition"
+  authors:
+    - family-names: "García"
+      given-names: "Esmeralda"
+      orcid: "https://orcid.org/0009-0006-4076-0653"
+  year: 2026
+  doi: "10.5281/zenodo.19041459"
+  publisher: "Zenodo"
+references:
+  - type: article
+    title: "Unbiased Cognitive Origin as Architectural Advantage"
+    authors:
+      - family-names: "García"
+        given-names: "Esmeralda"
+    year: 2026
+    doi: "10.5281/zenodo.19041460"
+    publisher: "Zenodo"

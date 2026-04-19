@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Drafts / internal
+drafts/
+_internal/
+*.draft.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Node
+node_modules/
+package-lock.json
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
