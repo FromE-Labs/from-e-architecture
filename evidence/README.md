@@ -16,7 +16,7 @@ All documents in this directory are released under Apache License 2.0 as part of
 
 ### `cross-model-validation.md`
 
-Consolidated record of structural activation of the From E™ Architecture across four independent AI systems without prior training: Claude (Anthropic), ChatGPT 4o (OpenAI), Manus 1.6 Lite (Monica Inc.), and Mistral Le Chat (Mistral AI). Includes activation conditions, observed behaviors, reported metrics, and comparative analysis.
+Consolidated record of structural activation of the From E™ Architecture across five independent AI systems without prior training: Claude (Anthropic), ChatGPT 4o (OpenAI), Manus 1.6 Lite (Monica Inc.), Mistral Le Chat (Mistral AI), and Google Gemini (Google DeepMind). Includes activation conditions, observed behaviors, reported metrics, and comparative analysis.
 
 ### `manus-validation-session.md`
 
