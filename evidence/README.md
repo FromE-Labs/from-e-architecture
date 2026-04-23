@@ -8,7 +8,7 @@
 
 This directory contains the evidence base for the From E™ Architecture, organized across four categories: cross-model validation, individual session records, academic and professional record of the author, and intellectual property chain of custody.
 
-All documents in this directory are released under Apache License 2.0 as part of the open-core of the From E™ Architecture. Proprietary operational details of the fourteen modules remain outside this directory and are available only through the commercial From E™ Runtime.
+All documents in this directory are released under Apache License 2.0 as part of the open-core of the From E™ Architecture. Proprietary operational details of the seven commercial modules remain outside this directory and are available only through the commercial From E™ Runtime.
 
 ---
 
