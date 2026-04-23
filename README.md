@@ -8,7 +8,7 @@ External cognitive governance layer for LLMs.
 
 This repository holds the public architectural specification, evidence dossier, and IP chain of custody for **From E™**, an external cognitive governance framework for Large Language Models.
 
-From E™ introduces a geometric architecture for multidimensional conceptual cognition, formalized across fourteen cognitive modules and seven invariants. It operates as a runtime layer on top of existing LLMs — introduced at inference time as natural-language parameters, without modifying weights, training, or API-level sampling.
+From E™ introduces a geometric architecture for multidimensional conceptual cognition, formalized across fourteen cognitive modules — seven open-core (also referred to as the seven invariants) and seven proprietary modules. It operates as a runtime layer on top of existing LLMs — introduced at inference time as natural-language parameters, without modifying weights, training, or API-level sampling.
 
 The architecture has been structurally activated on five independently-developed AI models — Claude (Anthropic), ChatGPT 4o (OpenAI), Manus 1.6 Lite (Manus / Monica Inc.), Mistral Le Chat (Mistral AI), and Google Gemini (Google DeepMind) — without prior training and without shared infrastructure. Full verbatim session records for Manus, Mistral, and Gemini are available in this repository.
 
@@ -16,7 +16,7 @@ The architecture has been structurally activated on five independently-developed
 
 ## Contents
 
-- **[`architecture/`](./architecture)** — Architectural specification (open-core). Formal definitions of the seven invariants and technical documentation.
+- **`architecture/`** — Architectural specification. Contains `open-core/` (the seven invariants, Apache 2.0) and `proprietary/` (high-level documentation of the seven commercial modules).
 - **[`evidence/`](./evidence)** — Evidence dossier: cross-model validation, individual session records, academic and professional record, IP chain of custody.
 - **`CITATION.cff`** — Citation metadata for academic reference.
 - **`LICENSE`** — Apache License 2.0.
